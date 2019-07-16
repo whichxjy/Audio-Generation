@@ -24,7 +24,7 @@ optional arguments:
 ## MIDI Notes
 
 Pitch  | MIDI Key
--------|---------
+|:-----------:|:------------:|
 C -1  | 0
 C# -1  | 1
 D -1  | 2
